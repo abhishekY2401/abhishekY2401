@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋😀 
+
+### Let me introduce myself...
+
+### My name is Abhishek and it seems very special to me 😎
+
+### I am sophomore from Mumbai University 🎓 and currently exploring stuffs 
+
+### My special area of interests is `[Web Development, Machine Learning and AI, Cloud Technologies, Databases]`
 
 <!--
 **abhishekY2401/abhishekY2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
