@@ -1,12 +1,10 @@
-### Hi there 👋😀 
+### Hey!! 👋 Hi there 😀 
 
-### Let me introduce myself...
+### I'm Abhishek Yadav, a sophomore from Mumbai University 🎓 and currently exploring stuffs 
 
-### My name is Abhishek and it seems very special to me 😎
+### My special areas of interests are 
 
-### I am sophomore from Mumbai University 🎓 and currently exploring stuffs 
-
-### My special area of interests is Web Development, Machine Learning and AI, Databases
+### Web Development, Machine Learning and AI, Databases
 
 <!--
 **abhishekY2401/abhishekY2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
