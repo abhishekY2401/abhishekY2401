@@ -1,22 +1,10 @@
-### Hey!! 👋 Hi there 😀 
+### Hello 👋 
+### I am Abhishek 🤓 and currently in sophomore year 🎓
 
-### I'm Abhishek Yadav, a sophomore from Mumbai University 🎓 and currently exploring stuffs 
+### I love to collaborate 🤗 with the folks in this space
 
-### My special areas of interests are 
-
-### Web Development, Machine Learning and AI, Databases
-
-<!--
-**abhishekY2401/abhishekY2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my side projects 🚀
+- 🌱 I’m currently learning JavaScript and DSA ✌
+- 👯 I’m looking to collaborate on any project 🦾
+- 😄 Pronouns: (he/him)
 
