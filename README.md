@@ -1,10 +1,15 @@
-### Hello 👋 
+### Hello there 👋 
 ### I am Abhishek 🤓 and currently in sophomore year 🎓
 
-### I love to collaborate 🤗 with the folks in this space
+### A highly passionate techie who works as a dev x product to create a difference and solve a real problem.
 
-- 🔭 I’m currently working on my side projects 🚀
-- 🌱 I’m currently learning Python and DSA ✌
-- 👯 I’m looking to collaborate on any project 🦾
+ A List of things I'm doing these days.
+ 
+- ⚡️ Building Feedo ⚡️    
+- 🔭 Working on some of my side projects 🚀
+- 🌱 Learning finance literacy 📈  
+- 📕 Blogs on Startups and Business Case Studies 📚
+- 👯 I’m looking to collaborate on my or any other project 🦾
 - 😄 Pronouns: (he/him)
 
+Connect with me on <a href="https://twitter.com/AbhiY2852">Twitter</a>, <a href="https://www.linkedin.com/in/abhishek-yadav-1a1808205">Linkedin</a>
