@@ -1,7 +1,7 @@
 ### Hello there 👋 
 ### I am Abhishek 🤓 and currently in sophomore year 🎓
 
-### A highly passionate techie who works as a dev x product to create a difference and solve a real problem.
+### A highly passionate techie who works in the intersection of development and product to create a difference and solve a real problem.
 
  A List of things I'm doing these days.
  
