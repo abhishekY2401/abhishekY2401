@@ -8,7 +8,6 @@
 - ⚡️ Building Feedo ⚡️    
 - 🔭 Working on some of my side projects 🚀
 - 🌱 Learning finance literacy 📈  
-- 📕 Blogs on Startups and Business Case Studies 📚
 - 👯 I’m looking to collaborate on my or any other project 🦾
 - 😄 Pronouns: (he/him)
 
