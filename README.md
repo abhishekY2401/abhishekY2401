@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on building a travel community.<br>👯 I'm looking to collaborate with people who can startup.<br>🍀 I'm currently learning DevOps and exploring GenAI.<br>✅ I speak fluent Python code and stay hydrated while debugging.<br>
+🔭 I'm currently working on SaaS idea which solves for developer productivity.<br>👯 I'm looking to collaborate with people who can build on SaaS products<br>🍀 I'm currently learning DevOps and exploring GenAI.<br>✅ I speak fluent Python code and stay hydrated while debugging.<br>
 
 
 ## 🌐 Socials:
